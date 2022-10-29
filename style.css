@@ -21,7 +21,7 @@ body {
   .info-block { text-align: center;
   }
 }
-.centered-main-page-element {
+.main-block {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.row-wrap {
   display: flex;
 }
 ul {
